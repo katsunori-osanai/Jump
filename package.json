@@ -15,8 +15,8 @@
     "css-loader": "^7.0.0",
     "html-webpack-inline-source-plugin": "0.0.10",
     "html-webpack-plugin": "^5.0.0",
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
     "sass": "^1.38.0",
     "sass-loader": "^14.0.0",
     "style-loader": "^4.0.0",
@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "@figma/plugin-typings": "*",
-    "@types/react": "^18.0.0",
-    "@types/react-dom": "^18.0.0"
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0"
   }
 }
